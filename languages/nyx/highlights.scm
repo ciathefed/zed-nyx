@@ -1,7 +1,5 @@
 ((instruction) @function)
 
-(data_size) @type
-
 (register) @variable.special
 
 (immediate) @number
@@ -15,6 +13,6 @@
 
 (directive) @keyword
 
-(preprocessor_directive) @preproc
+(preprocessor_directive) @keyword
 
 (comment) @comment
