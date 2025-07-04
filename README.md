@@ -1,6 +1,6 @@
 # zed-nyx
 
-Nyx support for Zed.
+[Nyx](https://github.com/ciathefed/nyx) support for Zed.
 
 ## License
 
