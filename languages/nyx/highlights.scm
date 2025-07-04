@@ -1,4 +1,4 @@
-((instruction) @function)
+(instruction (instruction_name) @function)
 
 (register) @variable.special
 
