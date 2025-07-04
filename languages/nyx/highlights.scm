@@ -1,5 +1,7 @@
 ((instruction) @function)
 
+(data_size) @type
+
 (register) @variable.special
 
 (immediate) @number
