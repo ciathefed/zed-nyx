@@ -1,0 +1,11 @@
+id = "nyx"
+name = "Nyx"
+version = "0.0.1"
+schema_version = 1
+authors = ["ciathefed <ciathefed@protonmail.com>"]
+description = "Nyx support."
+repository = "https://github.com/ciathefed/zed-nyx"
+
+[grammars.nyx]
+repository = "file:///Users/cia/Desktop/nyx/tree-sitter-nyx"
+rev = "8c2f99a64b0048a172221d45e01529041d0dcbc6"

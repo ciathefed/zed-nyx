@@ -1,1 +1,4 @@
 /target
+/grammars
+*.wasm
+.DS_Store
