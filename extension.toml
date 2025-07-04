@@ -8,4 +8,4 @@ repository = "https://github.com/ciathefed/zed-nyx"
 
 [grammars.nyx]
 repository = "https://github.com/ciathefed/tree-sitter-nyx"
-rev = "375fa9ef13886f66be8a647e0da094aca2a4f770"
+rev = "60a000a7c1a65d4be0ed61148857eb3924622c36"
