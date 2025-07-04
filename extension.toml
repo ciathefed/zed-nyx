@@ -7,5 +7,5 @@ description = "Nyx support."
 repository = "https://github.com/ciathefed/zed-nyx"
 
 [grammars.nyx]
-repository = "file:///Users/cia/Desktop/nyx/tree-sitter-nyx"
-rev = "8c2f99a64b0048a172221d45e01529041d0dcbc6"
+repository = "https://github.com/ciathefed/tree-sitter-nyx"
+rev = "375fa9ef13886f66be8a647e0da094aca2a4f770"
